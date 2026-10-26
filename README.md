@@ -1,5 +1,7 @@
 # Spotify Music Clustering
 
+![Spotify Music Clustering cover](images/cover.png)
+
 A DS 3000 (Foundations of Data Science) mini-project at Northeastern University by Dylan McCormick and Ali Salha.
 
 **Question:** Are there a small number of underlying, generalized "types" of songs that go beyond genre?
